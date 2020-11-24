@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG01645
   title: མཐོང་གྲོལ་ཞྭ་བཤད
-  volume: ''
+  volume:
+    0ba1f142189645fcb49cb445c3132b00:
+      image_group_id: I00KG02949
+      title: Volume 1 of mthong grol zhwa bshad
+      volume_number: 1
+      total_pages: 10
   author: ''
+ebook_metadata:
+  title: མཐོང་གྲོལ་ཞྭ་བཤད
+  author: ''
+  sku: P008097
+  cover: cover.jpg
+  layers:
+  - pagination
